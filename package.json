@@ -1,0 +1,10 @@
+{
+  "name": "splitwise",
+  "version": "1.0.0",
+  "author": "dkirchhof <dkirchhof@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node src/test.mjs",
+    "demo": "node src/demo.mjs"
+  }
+}
